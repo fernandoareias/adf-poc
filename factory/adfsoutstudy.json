@@ -1,0 +1,9 @@
+{
+	"name": "adfsoutstudy",
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cfaa289a-0882-4983-afa5-79e4cfd26ca9",
+		"tenantId": "75e6d5b1-2bf7-4767-a9c1-ed8a15cf6aac"
+	}
+}
